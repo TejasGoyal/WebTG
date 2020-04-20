@@ -1,0 +1,20 @@
+body {
+	background-image: url('../Media/img102.jpg');
+	background-size: cover; 
+	background-repeat: repeat-y;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.meborder{
+    color: #ff0055;
+	border-style: solid;
+	border-width: 6px;
+}
+
+.gallery-border {
+  border: 2px solid #000000;
+  border-radius: 6px;
